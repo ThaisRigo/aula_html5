@@ -1,0 +1,72 @@
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #dff2c2;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+header {
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+       
+}
+
+header h2 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: #41833e;
+   
+}
+header h1 {
+    background-color: #dff2c2;
+    font-size: 50px;
+    padding: 60px 0;
+}
+
+.intro {
+   text-align: center;
+   margin-bottom: 30px;
+   
+}
+
+nav {
+    font-size: 30px;
+    color: #0b4e09;
+    text-align: center;
+    
+}
+
+#quem {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+#equipe {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#servicos {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#contatos {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+footer {
+    font-size: 10px;
+    text-align: right;
+    margin-bottom: 20px;
+    
+
+}
